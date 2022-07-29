@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "rm -rf build/ && tsc",
     "ts": "rm -rf build/ && tsc -w",
-    "dev": "nodemon ./build/11return_type.js"
+    "dev": "nodemon ./build/18depedency_injection.js"
   },
   "devDependencies": {
     "typescript": "^4.7.4"
